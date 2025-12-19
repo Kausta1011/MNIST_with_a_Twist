@@ -1,4 +1,4 @@
-# MMNIST with a Twist: The Accuracy Paradox & Advanced Evaluation
+# MNIST with a Twist: The Accuracy Paradox & Advanced Evaluation
 
 ## 📌 Project Overview
 This project explores the famous **MNIST dataset** (70,000 images of handwritten digits) with a specific focus on **Binary Classification**. Instead of classifying all 10 digits, we isolate the digit **'5'** to create a "5-Detector".
